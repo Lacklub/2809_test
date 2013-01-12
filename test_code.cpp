@@ -9,6 +9,7 @@ void Kevin()
 	cout << "Kevin Rocks!" << endl;
 	cout << "Duncan was Here" << endl;
 	cout << "Easton was Here" << endl;
+	cout << "I'm popular too" << endl;
 }
 
 int main()
